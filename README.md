@@ -18,5 +18,4 @@ A tech enthusiast currently building a rock-solid foundation in system-level pro
 </p>
 
 ### 📊 GitHub Stats
-### 📊 GitHub Stats
 ![GitHub Stats](https://streak-stats.demolab.com/?user=sumituzumaki&theme=radical&hide_border=true)
